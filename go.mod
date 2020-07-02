@@ -19,7 +19,7 @@ require (
 	github.com/naoina/go-stringutil v0.1.0 // indirect
 	github.com/naoina/toml v0.1.1
 	github.com/smallstep/certificates v0.15.0-rc.1.0.20200506212953-e855707dc274
-	github.com/smallstep/cli v0.14.4
+	github.com/smallstep/cli v0.14.6
 	github.com/smallstep/nosql v0.3.0
 	github.com/smallstep/truststore v0.9.5
 	github.com/yuin/goldmark v1.1.32
